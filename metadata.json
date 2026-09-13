@@ -1,0 +1,11 @@
+{
+  "name": "LiveStream Crypto - Live Video & Gifts",
+  "description": "Live interactive video streaming platform inspired by Tango and Superlive with instant crypto deposits and payouts via direct blockchain network, gifts, donations, and creator analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
